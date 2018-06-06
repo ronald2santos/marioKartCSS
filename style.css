@@ -121,7 +121,7 @@ html, body{
 
 
 @keyframes drive{
-    from{ transform: translateX(-100px)}
+    from{ transform: translateX(-200px)}
     to{ transform: translateX(2000px)}
 }
 
