@@ -108,7 +108,7 @@ html, body{
     opacity: 0;
     position: absolute;
     width: 100%;
-    top: 75%;
+    top: 73%;
     height: auto;
     text-align: center;
     animation: start 1.2s 3.2s ease-in infinite;
@@ -144,8 +144,8 @@ html, body{
 
 @keyframes drop{
     0%{opacity: 0; top:-300px}
-    70%{transform: translateY(25x)}
-    100%{transform: translateY(0px); opacity: 1}
+    70%{transform: translateY(20x)}
+    100%{transform: translateY(-10px); opacity: 1}
 }
 
 
@@ -314,9 +314,9 @@ html, body{
     
 }
 
-@media screen and (max-height: 1000px) and (max-width:350px){
+@media screen and (max-height: 800px) and (max-width:350px){
     .logo{
-    width: 80%;
+    width: 85%;
     left: 10%;
     top: 50%;
     }
