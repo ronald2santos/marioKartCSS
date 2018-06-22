@@ -1,6 +1,8 @@
 # marioKartCSS
 
-Fooling around with CSS3 keyframes and media queries
+Working with CSS3 keyframes and media queries
+
+![marioKart](https://i.imgur.com/2YDggNb.jpg)
 
 ## Live Demo
 
